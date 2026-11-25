@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"FoxFunctions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"FoxFunctions",
+  "parent":{
+    "name":"Enemy",
+    "path":"folders/script/Enemy.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

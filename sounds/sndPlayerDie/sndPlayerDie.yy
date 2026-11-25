@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sndPlayerDie",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":4.1594105,
+  "exportDir":"",
+  "name":"sndPlayerDie",
+  "parent":{
+    "name":"Sound",
+    "path":"folders/Sound.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndPlayerDie.wav",
+  "volume":0.53,
+}

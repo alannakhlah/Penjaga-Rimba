@@ -1,0 +1,18 @@
+function ActivateLiftable(){
+/// @arg id
+if (global.iLifted == noone)
+{
+	PlayerActOutAnimation(sPlayerLift);
+	
+	spriteIdle = sPlayerCarrying;
+	spriteRun = sPlayerRunCarrying;
+
+	global.iLifted = argument0;
+	with (global.iLifted)
+	{
+		lifted = true;
+		persistent = true;
+	}
+}
+
+}

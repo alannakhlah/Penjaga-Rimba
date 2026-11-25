@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sndResponseSelect",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.16117914,
+  "exportDir":"",
+  "name":"sndResponseSelect",
+  "parent":{
+    "name":"Sound",
+    "path":"folders/Sound.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndResponseSelect.wav",
+  "volume":0.25,
+}

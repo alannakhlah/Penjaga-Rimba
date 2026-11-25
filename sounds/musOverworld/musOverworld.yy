@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"musOverworld",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":0,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":4132.7363,
+  "exportDir":"",
+  "name":"musOverworld",
+  "parent":{
+    "name":"Sound",
+    "path":"folders/Sound.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":22050,
+  "soundFile":"musOverworld.wav",
+  "volume":0.33,
+}
